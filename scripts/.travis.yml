@@ -1,0 +1,25 @@
+language: csharp
+mono: none
+sudo: required
+dist: xenial
+dotnet: 5.0.102
+branches:
+  only:
+    - master
+#    - develop
+script:
+  - dotnet build
+  - dotnet test
+# [START travis_deploy]
+deploy:
+    provider: gae
+    # Skip cleanup so api_key.py and vendored dependencies are still there
+    skip_cleanup: true
+    keyfile: travis-net5-ricardo-alarcon-c002d8177915.json
+    project: travis-net5-ricardo-alarcon
+    version: service-demo
+    default: true
+    on:
+        all_branches: true
+# [END travis_deploy]
+ 

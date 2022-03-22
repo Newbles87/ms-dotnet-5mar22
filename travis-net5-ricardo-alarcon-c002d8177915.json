@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travis-net5-ricardo-alarcon",
+  "private_key_id": "c002d81779150dcfc550c051093bd5e0ea2ef1fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCXI013fn0XOpvQ\nEe84XnHBYHWsO1H1nGadBXJqya6wyHv3raET5ATtfQ3IraZzQFuRB9jCKcrodbkg\nTnkjBmnUZl5L0zj287m8CuqVNcO6354a6oKyLkYnFDpGPj+ini4/4CY53Jlj3K4A\njRvzpDzQP+MK/3tn1qCJ24nOITp4oF7NoL3vl4NXMl0M0b7GyyTKzjv+e8eIhVlj\n6Kg4+ZNORpsHO/ZsafDvX9cgGurcudJTJPnkQoD9t98JSeOjNVs7Lnac4ACW6C5r\nkEBpPQwfhiXG5k5cTucrgntsI8yFsJ6QMQ6LICcC/NmvXNXHV7O5IC5DNQOdperC\njmItQhQrAgMBAAECggEAGOcluAc8+EtdahLSbmDNcJYCvZ7Gmegr1jqUCDl0Ecfu\n+TgAPwVGtJTy5PqL3xifHc4DrrZxKw1etA6KEjXX0ToO1oKWs8Yj9/J6hZxmxE9d\nP0UdxNswDvdbxMAz/wj+SOMXmVgaZCRz/T5C+Um6BXxJXkILZOgt6pkkYzUBa+eL\n6omR+lk16wugo/6lIoJGHE2FL8Hg3n4isoKBElNsb/BsF2HQTaKV1zECcmiuaNQo\nauDxcD06ZcmJTxBQgQZewYb/tRfPaUyceALeffrh4bo5dSuIRoGk4rECnZxtTOeW\nBHHf+2lGojNhaYy5GbncYZJWRjbJKeCEbONEkv7xQQKBgQDL1UC52m3S+EIFUNcD\ny+mChpKyONCkqpNeJBmsh+1oYiUjZYLZ04avcV+MUgrbUF/2igphqzIY2dZESN5g\nDrO4rWY6KMByyCKr164o2NFyz4AiECl4mI0Qdo5675jQ8a1OiTpjKAbCE77EXHd/\nlTpNfUdjQzRPgBTVAS6xou+uawKBgQC90ZEpAhwcQVz/02s6l1N1zV/bh+8W3MiS\nmmZo4NE2x3WXQvHcow+HewSCPuSlSxJ7l/NjOLpuHSx7E6P1b8+Zws8Fy4G/itm2\nxAYpg4/u4WFjhCu81fpYzYotrlajyIbRMaycTXvxdVQ2Cobrhv+oCL3CQDxFMs3N\npBRHT4EhQQKBgBuJpgL15Zx4+cJqF4JlzBhcQfld/6IfgWVYjzdl7ccKa2YK0tDG\n6Q1Ozc/RTbIve6d9IsXrMQt2cqIrDhAALHuowYTd+JIJQ9Xff6H5GOLf8bmoYVHv\nmi89NSaatBSWcgmINKEsySzzKfSxYVuVN5k8caaRb8HF1gqo7DwHfUYdAoGAKsGL\nuvr4rfyjIBTVMGtppz1NfDuQRUwR+cPBkZoiRf6DpEC2DgbEtrWk/FmCUyEn1qMR\ndaYPiEIWBNsVsXEwB+hzjVCbtzNlet+Iq80wnJQzxaC94VkpfNs/Zq7AYUAH7hMM\nWGCzrF3LTCju3xqXd5gQdjLV4Jhi9xEgaDemVIECgYBMEIWE0waPFHqmDzod4P6m\n9u904B3MaAmB+AUj8yVoU72v12nBEgGrKDJUWmnQoMfWdQyeD+BBttzwN1k+TUtW\nM5zCD9oOI4N/cipMke9cY+aTfQ/cCzbHYzzUt34ff3LhMV/oRpyhOf8D6Up2jIue\n91kFVDxEvYft/+LutosNZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sac-afor255-rsac@travis-net5-ricardo-alarcon.iam.gserviceaccount.com",
+  "client_id": "112338724062893168192",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sac-afor255-rsac%40travis-net5-ricardo-alarcon.iam.gserviceaccount.com"
+}
